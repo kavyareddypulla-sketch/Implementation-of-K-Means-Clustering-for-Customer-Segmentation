@@ -9,8 +9,11 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 
 ## Algorithm
 1.1.Data Preparation: Load and explore customer data. 
+
 2.Determine Optimal Clusters: Use the Elbow Method to find the best number of clusters.
+
 3.Apply K Means Clustering: Perform clustering on customer data.
+
 4.Visualize Segmented Customers: Plot clustered data to visualize customer segments. 
 
 ## Program:
